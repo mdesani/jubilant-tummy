@@ -1,7 +1,7 @@
 ---
 title: "My take on Falafel Wrap"
 date: 2020-05-13
-tags: [ "healthy", "falafel_wrap"]
+tags: [ "healthy", "falafel", "salad", "wrap"]
 draft: false
 ---
 > IMPORTANT NOTE: Any mentions of products and its manufacturer or links to products are not endorsement. They are purely for reference purpose only.
