@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jubilant Tummy</title>
+    <link>https://mdesani.github.io/tags/</link>
+    <description>Recent content in Tags on Jubilant Tummy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mdesani.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>falafel</title>
+      <link>https://mdesani.github.io/tags/falafel/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdesani.github.io/tags/falafel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>healthy</title>
+      <link>https://mdesani.github.io/tags/healthy/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdesani.github.io/tags/healthy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>salad</title>
+      <link>https://mdesani.github.io/tags/salad/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdesani.github.io/tags/salad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wrap</title>
+      <link>https://mdesani.github.io/tags/wrap/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdesani.github.io/tags/wrap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
