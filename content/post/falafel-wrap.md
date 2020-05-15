@@ -41,7 +41,7 @@ Here is my take on falafel wrap. Its different from the traditional one but equa
 * Optional Red Chili flakes as per Spice Level
 
 * Chop the baked garlic into small pieces and add it to the dressing.
-* Add one stalk (finely chopped) of Green/Spring Onion and add it to the dressing.
+* Add one stalk of finely chopped Green/Spring Onion to the dressing.
 * Mix it with light hand and let it rest for 5-10 mins, so that taste of all the spices/herbs and garlic gets infused into the olive oil.
 {{< figure src="../media/flavor-getting-infused.png" >}}
 
@@ -61,4 +61,5 @@ Here is my take on falafel wrap. Its different from the traditional one but equa
 
 
 # Wala ! Falafel Pita Wrap is ready.
+* Savor it with more Tzatziki sauce or Sriracha (any hot) sauce.
 {{< figure src="../media/falafel-ready.png" >}}
