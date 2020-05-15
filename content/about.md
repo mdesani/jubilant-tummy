@@ -1,6 +1,6 @@
 ---
 title: About
-description: Hang in there !  
+description: Hang in there !  Brewing something interesting.
 ---
 
-Brewing something interesting
+{{< figure src="../media/hot-coffee.png" >}}
