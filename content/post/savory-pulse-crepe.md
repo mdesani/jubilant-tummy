@@ -34,7 +34,7 @@ draft: false
 * Take a cast iron pan (can substitute any non-stick pan), turn on the gas/stove and let the pan heat up before pouring the batter.
 * Take a spoon-full of batter and spread it on the pan like a crepe.
 * Once little cooked, add olive oil (or oil of your choice) on the sides of the crepe and flip it after 4-5 seconds.
-{{< figure src="../media/moong-dal-doosa-on-pan.png" >}}
+{{< figure src="../media/moong-dal-dosa-on-pan.png" >}}
 
 * Repeat same on the other side as well.
 {{< figure src="../media/moong-dal-dosa-on-pan-ii.png" >}}
