@@ -25,7 +25,7 @@ draft: false
 
 * Blend it to a pourable consistency.
   * Ex: Like pancake batter.
-* Take the batter out of blender and pour it in a bowl
+* Take the batter out of blender and pour it in a bowl.
 * Add finely chopped onions to the batter.
 {{< figure src="../media/moong-dal-dosa-prep-ii.png" >}}
 
