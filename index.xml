@@ -1,45 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jubilant Tummy</title>
-    <link>https://mdesani.github.io/jubilant-tummy/</link>
-    <description>Recent content on Jubilant Tummy</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mdesani.github.io/jubilant-tummy/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Savory Green Gram Crepe / Moong Dal Dosa / Pesarattu</title>
-      <link>https://mdesani.github.io/jubilant-tummy/post/savory-pulse-crepe/</link>
-      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mdesani.github.io/jubilant-tummy/post/savory-pulse-crepe/</guid>
-      <description>Moong Dal Dosa are thin crepes made with Whole Moong Dal and spices. These protein packed flavorful moong dal dosa has all the important ingredients, which a breakfast requires - healthy, tasty and quick meal that you can put together. It is similar in flavor and presentation to traditional dosas but don’t require fermenting.
-Preparation   Take 1 cup Green Whole Moong and soak it in water for minimum 5-6 hours.</description>
-    </item>
-    
-    <item>
-      <title>My take on Falafel Wrap</title>
-      <link>https://mdesani.github.io/jubilant-tummy/post/falafel-wrap/</link>
-      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mdesani.github.io/jubilant-tummy/post/falafel-wrap/</guid>
-      <description>IMPORTANT NOTE: Any mention of the products and its manufacturer or link to products are not endorsement. They are purely for reference purpose only.
- Here is my take on falafel wrap. Its different from the traditional one but equally healthy and delicious. My version involves a salad prepared from baked veggies and a quick and easy to make dressing.
-Gotta love your Veggies !   The very first step is to take all the veggies you love and roughly chop it.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://mdesani.github.io/jubilant-tummy/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mdesani.github.io/jubilant-tummy/about/</guid>
-      <description>  </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jubilant Tummy</title><link>https://mdesani.github.io/jubilant-tummy/</link><description>Recent content on Jubilant Tummy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mdesani.github.io/jubilant-tummy/index.xml" rel="self" type="application/rss+xml"/><item><title>Savory Green Gram Crepe / Moong Dal Dosa / Pesarattu</title><link>https://mdesani.github.io/jubilant-tummy/post/savory-pulse-crepe/</link><pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate><guid>https://mdesani.github.io/jubilant-tummy/post/savory-pulse-crepe/</guid><description>Moong Dal Dosa are thin crepes made with Whole Moong Dal and spices. These protein packed flavorful moong dal dosa has all the important ingredients, which a breakfast requires - healthy, tasty and quick meal that you can put together. It is similar in flavor and presentation to traditional dosas but don’t require fermenting.
+Preparation Take 1 cup Green Whole Moong and soak it in water for minimum 5-6 hours.</description></item><item><title>My take on Falafel Wrap</title><link>https://mdesani.github.io/jubilant-tummy/post/falafel-wrap/</link><pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate><guid>https://mdesani.github.io/jubilant-tummy/post/falafel-wrap/</guid><description>IMPORTANT NOTE: Any mention of the products and its manufacturer or link to products are not endorsement. They are purely for reference purpose only.
+Here is my take on falafel wrap. Its different from the traditional one but equally healthy and delicious. My version involves a salad prepared from baked veggies and a quick and easy to make dressing.
+Gotta love your Veggies ! The very first step is to take all the veggies you love and roughly chop it.</description></item><item><title>About</title><link>https://mdesani.github.io/jubilant-tummy/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mdesani.github.io/jubilant-tummy/about/</guid><description/></item></channel></rss>
